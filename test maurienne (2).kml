@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1Fxqt5LJzaoRX-EBQ1XVOz6dGGOjTtrRY">
+	<name>test maurienne</name>
+	<visibility>0</visibility>
+	<gx:CascadingStyle kml:id="__managed_style_1D301CEEF03725A6E597">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0BDBADF8CC3725A6E598">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0B83DB51223725A6E597">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1D301CEEF03725A6E597</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0BDBADF8CC3725A6E598</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="5403563EC6000001">
+		<name>0115092410_ALPIK_2025_MESH</name>
+		<styleUrl>#__managed_style_0B83DB51223725A6E597</styleUrl>
+		<GroundOverlay id="5403563EC6000002">
+			<name>868MHz 0.03W</name>
+			<styleUrl>#__managed_style_0B83DB51223725A6E597</styleUrl>
+			<Icon>
+				<href>https://earth.usercontent.google.com/hostedimage/e/*/4APRDMAXMAD3_u879GnVi0oQwY_f97qAB3lzx5Gzpk2RjQ-28itdWKKRN-ZW-wBdPbkV-m6rO-yrjWCSjy3xt2Zfbtc6ydAk4ZxKfplijgo3UB4v9K1w5Kllo7n7mHhBtdDjzCuLoiyYYkux_AUU9MmCx_MPfy-vYzVCBURyI3f9JkvmLrSuQ4Hv0JwRmqrwJMykwwte4FvDnba457Fd7VuMVS6o1jpnDHZl8eZlsQ-Qs5l2Bh_8ob-Z0JShxpYHJN-98s1rsq9Zx6WE44UDf?authuser=0&amp;fife=s16383</href>
+			</Icon>
+			<LatLonBox>
+				<north>46.60637</north>
+				<south>43.8386</south>
+				<east>7.595017</east>
+				<west>5.207899</west>
+			</LatLonBox>
+		</GroundOverlay>
+	</Folder>
+</Document>
+</kml>
